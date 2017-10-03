@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel = "stylesheet" type="text/css" href = "style.css"/>
+		<meta http-equiv="Content - Type" content="text/html"; charset = "UTF-8">
+		<title>My Personal Web Technique Site</title>
+	</head>
+	<body>
+		<article>
+			<center>
+				<h1>FIFA 18</h1>
+				<h2>Fédération Internationale de Football Association</h2>
+				<img src="imagecover.jpg">
+				<br></br>
+				<a href="https://www.easports.com/de/fifa/buy/austria">FIFA DOWNLOAD</a>
+				<br></br>
+				<big><p>Hier sehen sie ein wildes Igor bei einem Seitwärtssalto Versuch</p></big>
+				<video width="320" height="240" controls>
+					<source src="IgorRodeoFail.mp4" type="video/mp4">
+					<source src="movie.ogg" type="video/ogg">
+				</video>
+				<br></br>
+				<big><p>Mein Name ist Armin und ich habe diese Seite gemacht</p></big>
+			</center>
+		</article>
+	</body>
+</html>
